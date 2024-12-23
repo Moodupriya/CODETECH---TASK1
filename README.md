@@ -11,6 +11,8 @@ Duration: Nov to Dec 2024
 Mentor: SRAVANI GOUNI
 
 Detailed Portfolio Overview
+
+
 This portfolio is a meticulously organized representation of my skills, projects, and academic journey as a Computer Science and Engineering (CSE) undergraduate, developed using Notion.
 
 Structure and Highlights
