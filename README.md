@@ -48,9 +48,10 @@ The portfolio not only showcases technical abilities but also reflects a keen in
 
 ![Screenshot_23-12-2024_181438_www notion so](https://github.com/user-attachments/assets/102293e3-22fd-4633-8edb-7638d6ac64dd)
 
-![Screenshot_23-12-2024_182040_www notion so](https://github.com/user-attachments/assets/1fcffa88-77b1-463d-be20-20b51e0cd4c7)
 
 ![Screenshot_23-12-2024_18194_www notion so](https://github.com/user-attachments/assets/d19dab4d-78e5-4970-b24f-681adbbf43bd)
+
+![Screenshot_23-12-2024_182040_www notion so](https://github.com/user-attachments/assets/1fcffa88-77b1-463d-be20-20b51e0cd4c7)
 
 
 
