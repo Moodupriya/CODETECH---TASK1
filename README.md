@@ -46,11 +46,14 @@ Provides direct access to email, phone number, and resume for collaborations or 
 Purpose
 The portfolio not only showcases technical abilities but also reflects a keen interest in tackling cybersecurity challenges, creating robust systems, and fostering innovation in the tech domain.
 
-![Screenshot_23-12-2024_18194_www notion so](https://github.com/user-attachments/assets/cb114ccb-e7df-4686-b803-f42002db64f8)
+![Screenshot_23-12-2024_181438_www notion so](https://github.com/user-attachments/assets/102293e3-22fd-4633-8edb-7638d6ac64dd)
 
-![Screenshot_23-12-2024_182040_www notion so](https://github.com/user-attachments/assets/0d2b5e8b-9de3-4d0e-8277-9653b7afee70)
+![Screenshot_23-12-2024_182040_www notion so](https://github.com/user-attachments/assets/1fcffa88-77b1-463d-be20-20b51e0cd4c7)
 
-![Screenshot_23-12-2024_181438_www notion so](https://github.com/user-attachments/assets/7d120b88-9584-4ad9-bfc0-73dbb0b2892b)
+![Screenshot_23-12-2024_18194_www notion so](https://github.com/user-attachments/assets/d19dab4d-78e5-4970-b24f-681adbbf43bd)
+
+
+
 
 
 
